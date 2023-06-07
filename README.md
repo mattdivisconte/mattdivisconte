@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Matt!
 
-<!--
-**mattdivisconte/mattdivisconte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>:shield: Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Initial Projects</b>
+  - [Bash Scripting](https://github.com/mattdivisconte/BashURL)
+  - [Basic Active Directory](https://github.com/mattdivisconte/ADURL)
+  - [Azure Cloud Security](https://github.com/mattdivisconte/BashURL)
+  - [Splunk Baseline vs. Attack](https://github.com/mattdivisconte/BashURL)
+<h2> :link: Connect with me:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="MattDiVisconte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/matt-divisconte-96b3a2a/
