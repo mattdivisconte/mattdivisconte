@@ -4,8 +4,8 @@
 
 - <b>Initial Projects</b>
   - [It's Kismet! - Wardriving](https://github.com/mattdivisconte/ItsKismet)
-<!--  - [Bash Scripting](https://github.com/mattdivisconte/BashURL)
-  - [Basic Active Directory](https://github.com/mattdivisconte/ADURL)
+  - [Bash Scripting](https://github.com/mattdivisconte/BashScripting)
+<!--  - [Basic Active Directory](https://github.com/mattdivisconte/ADURL)
   - [Azure Cloud Security](https://github.com/mattdivisconte/BashURL)
   - [Splunk Baseline vs. Attack](https://github.com/mattdivisconte/BashURL)
  -->   
