@@ -2,7 +2,7 @@
 
 <h2>:shield: Cybersecurity Projects:</h2>
 
-- <b>Initial Projects</b>
+- <b>Bootcamp Projects</b>
   - [It's Kismet! - Wardriving](https://github.com/mattdivisconte/ItsKismet)
   - [Bash Scripting](https://github.com/mattdivisconte/BashScripting)
 <!--  - [Basic Active Directory](https://github.com/mattdivisconte/ADURL)
