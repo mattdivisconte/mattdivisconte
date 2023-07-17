@@ -9,7 +9,7 @@
   - [Azure Cloud Security](https://github.com/mattdivisconte/CloudSecurity)
 
      </br>
-I am currently working on setting up a firewall appliance, IDS, and a 4 VLAN setup for my home network.  I will post the details and a video soon.
+I am currently working on setting up a firewall appliance (pfsense), IDS, and a 4 VLAN setup for my home network.  I will post the details and a video soon.
 <!--  - [Basic Active Directory](https://github.com/mattdivisconte/ADURL)
  
   
